@@ -3,8 +3,7 @@
   background-image: url('/images/background.png');
   color: #000000; /* 변경: 검은 글자색 */
   height: 100%;
-  background-size: cover; /* 변경: 배경 이미지를 화면에 꽉 차도록 설정 /
-
+  background-size: cover; /* 변경: 배경 이미지를 화면에 꽉 차도록 설정 */
 }
 
 .main,
